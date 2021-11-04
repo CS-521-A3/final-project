@@ -3,6 +3,7 @@
 ***Team member:***  
 - Zongqi Lyu  
 - Yiqing Zhang  
+  
 ***Topic:***  
 - Fake News Detector  
 ## Second commit, adding script  
