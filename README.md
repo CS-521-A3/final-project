@@ -19,4 +19,8 @@ Using the tables above, we plot a bar chart first to compare the amount of fake 
 ![Bar Chart](snapshot/BarChart.png)  
 As you can see in the figure above, we can see that the number of fake news is almost the same as the real news, we can't tell anything else if no further detailed information is given. Therefore, we plot our second chart, for this one we decided to use pie chart and label the percentage on the chart:
 ![Pie Chart](snapshot/PieChart.png)  
-From the pie chart above, we can say that even though they have almost the same number of amount in this dataset, but still the number of real news is slightly more than the number of fake news.
+From the pie chart above, we can say that even though they have almost the same number of amount in this dataset, but still the number of real news is slightly more than the number of fake news.  
+## Fourth commit, build and test model
+- For this commit, we built the model using sklearn library. Use fit method to train the model and use use 
+predict method to test the model. As shown in the Jupytor Notebook file, the model works perfectly, it correctly
+predicted the fake and real news. (We have selected 1 fake new and 1 real new to test the model)
